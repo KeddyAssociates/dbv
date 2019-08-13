@@ -1,6 +1,6 @@
-.idea
+.idea/
+vendor/
 .buildpath
 .project
 .settings
 config.php
-/vendor

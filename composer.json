@@ -1,6 +1,7 @@
 {
-  "name": "victorstanciu/dbv",
-  "description": "A forked project that extracts database schema documents from mysql",
+  "name": "keddyassociates/dbv",
+  "license": "opensource",
+  "description": "A forked project from victorstanciu that extracts database schema documents from mysql",
   "authors": [
     {
       "name": "Victor Stanciu",
