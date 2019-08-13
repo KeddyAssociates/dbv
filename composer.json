@@ -1,0 +1,11 @@
+{
+  "name": "victorstanciu/dbv",
+  "description": "A forked project that extracts database schema documents from mysql",
+  "authors": [
+    {
+      "name": "Victor Stanciu",
+      "email": "vic.stanciu@gmail.com",
+      "homepage": "https://victorstanciu.ro"
+    }
+  ]
+}

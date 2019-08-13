@@ -1,4 +1,6 @@
-config.php
+.idea
 .buildpath
 .project
 .settings
+config.php
+/vendor
